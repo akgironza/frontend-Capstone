@@ -3,7 +3,7 @@
 
 [**Link to GitHub**](https://github.com/akgironza/frontend-Capstone)
 [**Link to Deployed Site**]()
-[**Link to Trello**]()
+[**Link to Trello**](https://trello.com/b/H5RhqRA5/capstone-ga-seir)
 
 ## Project Description
 An app for users to efficiently track their tasks at work to improve productivity and track value add of their work. Users log and track the status of weekly to-dos, follow-ups, unplanned asks, and weekly accomplishments. 
